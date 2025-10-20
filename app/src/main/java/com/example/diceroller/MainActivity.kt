@@ -64,7 +64,7 @@ fun DiceWithButtonAndImage(
 
 @Preview(
     showBackground = true,
-    showSystemUi = true,
+    showSystemUi =  true,
 )
 @Composable
 fun DiceRollerApp() {
